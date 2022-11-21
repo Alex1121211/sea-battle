@@ -210,6 +210,7 @@ class Game:
         return board
 
     def greet(self):
+        print('test for github')
         print("-------------------")
         print("  Приветсвуем вас  ")
         print("      в игре       ")
